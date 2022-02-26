@@ -118,13 +118,13 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 200px;
-  top: 50px;
+  right: 20px;
+  top: 20px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
+  left: 50px;
   bottom: 220px;
 }
 
